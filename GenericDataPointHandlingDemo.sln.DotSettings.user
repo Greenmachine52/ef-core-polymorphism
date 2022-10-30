@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=298371ca_002Db0b7_002D4570_002Db609_002D82fa61752844/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ThresholdTriggersIfLower" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75AA69CF-F053-4F45-BE69-01AA07AF3C02::net6.0::GenericDataPointHandlingDemoTests.ConcreteSensorOneTests.ThresholdTriggersIfLower&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75AA69CF-F053-4F45-BE69-01AA07AF3C02::net6.0::GenericDataPointHandlingDemoTests.ConcreteSensorTwoTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
